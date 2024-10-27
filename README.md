@@ -28,7 +28,9 @@ Je suis  **Ingénieur Logiciel** spécialisé en **PHP, Symfony, Laravel, API Pl
    - **Progression**: ![Progression](https://progress-bar.dev/25/?scale=100&title=Progression&width=150&color=yellow&suffix=%)
    
 
-D'autres projets vont être ajoutés, je suis passionné par le développement logiciel et je cherche toujours à apprendre et à innover !
+### D'autres projets à venir
+
+je suis passionné par le développement logiciel et je cherche toujours à apprendre et à innover !
 
 ## Me Contacter
 
