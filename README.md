@@ -4,9 +4,21 @@
 
 ## À propos de moi
 
-Je suis  **Ingénieur Logiciel** spécialisé en **PHP, Symfony, Laravel, API Platform** et **React.js**. Passionné par la création de solutions robustes et la résolution de problèmes techniques complexes, j'ai travaillé sur plusieurs projets de développement backend et frontend pour des API et des applications web. Mes expériences m'ont permis de maîtriser l'architecture d'applications, le développement d'API RESTful, ainsi que la gestion de données avec **Doctrine ORM**.
+Je suis **Ingénieur Logiciel** spécialisé en **PHP**, **Symfony**, **Laravel**, **API Platform**, **React.js**, ainsi qu'en **Flutter** et **Dart** pour le développement mobile.  
+Passionné par la création de solutions robustes et la résolution de problèmes techniques, j'ai acquis une solide expérience en développement backend et frontend.
 
-## Parmi mes projets
+J'ai travaillé sur divers projets, utilisant des technologies comme **Doctrine ORM** pour la gestion des données, ainsi que **Twig** pour le rendu de templates. Mon expertise inclut également :
+- **Conception d'API RESTful** : Création d'interfaces robustes pour les applications web.
+- **Optimisation des performances** : Amélioration de la vitesse et de l'efficacité des applications.
+- **Tests automatisés** : Mise en place de tests unitaires et fonctionnels pour garantir la qualité du code.
+- **Développement Agile** : Travail en équipe en suivant des méthodologies agiles pour assurer la livraison rapide de fonctionnalités.
+
+Je suis toujours à l'affût des dernières tendances technologiques et je m'efforce de continuer à apprendre et à innover dans le domaine du développement logiciel.
+
+## Mes projets privés
+
+Bien que la plupart de mes projets soient privés, voici quelques exemples de ce sur quoi j'ai travaillé :
+
 
 ### 1. **Quick_Clock**
    - **Description**: Une simple horloge créée avec **HTML**, **CSS** et **JavaScript** qui affiche l'heure actuelle en temps réel, mise à jour chaque seconde.
