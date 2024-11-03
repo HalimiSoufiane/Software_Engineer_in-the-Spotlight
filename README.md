@@ -7,7 +7,7 @@
 Je suis **Ingénieur Logiciel** spécialisé en **PHP**, **Symfony**, **Laravel**, **API Platform**, **React.js**, ainsi qu'en **Flutter** et **Dart** pour le développement mobile.  
 Passionné par la création de solutions robustes et la résolution de problèmes techniques, j'ai acquis une solide expérience en développement backend et frontend.
 
-J'ai travaillé sur divers projets, utilisant des technologies comme **Doctrine ORM** pour la gestion des données, ainsi que **Twig** pour le rendu de templates. Mon expertise inclut également :
+Mon expertise inclut également :
 - **Conception d'API RESTful** : Création d'interfaces robustes pour les applications web.
 - **Optimisation des performances** : Amélioration de la vitesse et de l'efficacité des applications.
 - **Tests automatisés** : Mise en place de tests unitaires et fonctionnels pour garantir la qualité du code.
